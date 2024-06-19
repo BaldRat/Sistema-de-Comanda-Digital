@@ -1,3 +1,7 @@
+//Integrantes: 
+//Pedro Ribeiro de Oliveira - RA: 197947
+//Bartolomeu Gomes Rabelo Neto - RA: 199824
+
 package restaurante;
 
 import java.util.ArrayList;
